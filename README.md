@@ -16,6 +16,7 @@ size, and every part is a flat plate joined to other flat plates.
 [buzz-disc](https://github.com/Gernreich/buzz-disc)
 
 **Generators** — [bore-generator](https://github.com/Gernreich/bore-generator) ·
+[bore-designs](https://github.com/Gernreich/bore-designs) ·
 [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes) ·
 [living-hinge](https://github.com/Gernreich/living-hinge)
 
