@@ -21,6 +21,3 @@ size, and every part is a flat plate joined to other flat plates.
 [living-hinge](https://github.com/Gernreich/living-hinge)
 
 **Tools** — [lasermade-tools](https://github.com/Gernreich/lasermade-tools)
-
-Every build page records the mistakes as well as the method — a build sheet that only
-says what worked is the one that costs someone a sheet of ply.
