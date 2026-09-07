@@ -7,7 +7,6 @@ size, and every part is a flat plate joined to other flat plates.
 **[All of it, indexed](https://gernreich.github.io/)** · **[The channel](https://www.youtube.com/@LaserMadeMusic)**
 
 **Instruments** — [trumpet](https://github.com/Gernreich/trumpet) ·
-[the octagonal torus](https://github.com/Gernreich/trumpet/tree/main/torus) ·
 [kalimba](https://github.com/Gernreich/kalimba) ·
 [slapstick](https://github.com/Gernreich/slapstick) ·
 [bullroarer](https://github.com/Gernreich/bullroarer) ·
