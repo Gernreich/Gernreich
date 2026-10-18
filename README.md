@@ -12,7 +12,8 @@ size, and every part is a flat plate joined to other flat plates.
 [bullroarer](https://github.com/Gernreich/bullroarer) ·
 [buzz-disc](https://github.com/Gernreich/buzz-disc) ·
 [lyre-harp](https://github.com/Gernreich/lyre-harp) ·
-[square-flute](https://github.com/Gernreich/square-flute)
+[square-flute](https://github.com/Gernreich/square-flute) ·
+[four-hole-ocarinas](https://github.com/Gernreich/four-hole-ocarinas)
 
 **Generators** — [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes) ·
 [living-hinge](https://github.com/Gernreich/living-hinge)
