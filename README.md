@@ -15,7 +15,8 @@ size, and every part is a flat plate joined to other flat plates.
 [square-flute](https://github.com/Gernreich/square-flute) ·
 [four-hole-ocarinas](https://github.com/Gernreich/four-hole-ocarinas) ·
 [octagonal-flute](https://github.com/Gernreich/octagonal-flute) ·
-[panpipes](https://github.com/Gernreich/panpipes)
+[panpipes](https://github.com/Gernreich/panpipes) ·
+[practice-chanters](https://github.com/Gernreich/practice-chanters)
 
 **Generators** — [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes) ·
 [living-hinge](https://github.com/Gernreich/living-hinge)
