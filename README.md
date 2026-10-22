@@ -4,7 +4,7 @@ Musical instruments cut from 3mm Baltic birch plywood on a laser, and the cut fi
 build them. Millimetre-true at `1 user unit = 1mm`, so a file prints and cuts at real
 size, and every part is a flat plate joined to other flat plates.
 
-**[All of it, indexed](https://gernreich.github.io/)** · **[The channel](https://www.youtube.com/@LaserMadeMusic)**
+**[All of it, indexed](https://gernreich.github.io/lasermademusic.html)** · **[The channel](https://www.youtube.com/@LaserMadeMusic)**
 
 **Instruments** — trumpet: [trumpet-elbows-allowed](https://github.com/Gernreich/trumpet-elbows-allowed) (grid blocks) and [swept-curve](https://github.com/Gernreich/swept-curve) (swept curves) ·
 [kalimba](https://github.com/Gernreich/kalimba) ·
@@ -19,7 +19,16 @@ size, and every part is a flat plate joined to other flat plates.
 [practice-chanters](https://github.com/Gernreich/practice-chanters) ·
 [ghb-chanter](https://github.com/Gernreich/ghb-chanter)
 
-**Generators** — [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes) ·
-[living-hinge](https://github.com/Gernreich/living-hinge)
+**Generators** — [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes)
 
 **Tools** — [lasermade-tools](https://github.com/Gernreich/lasermade-tools)
+
+## Other projects
+
+**[Every project](https://gernreich.github.io/)** ·
+[hex-dice-box](https://github.com/Gernreich/hex-dice-box) ·
+[windbag](https://github.com/Gernreich/windbag) ·
+[coprime-intervals](https://github.com/Gernreich/coprime-intervals) ·
+[Logic-Research](https://github.com/Gernreich/Logic-Research) ·
+[bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck) ·
+[living-hinge](https://github.com/Gernreich/living-hinge)
