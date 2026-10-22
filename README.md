@@ -28,6 +28,7 @@ size, and every part is a flat plate joined to other flat plates.
 **[Every project](https://gernreich.github.io/)** ·
 [hex-dice-box](https://github.com/Gernreich/hex-dice-box) ·
 [windbag](https://github.com/Gernreich/windbag) ·
+[gernreich-writing](https://github.com/Gernreich/gernreich-writing) ·
 [coprime-intervals](https://github.com/Gernreich/coprime-intervals) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
 [bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck) ·
