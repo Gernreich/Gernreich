@@ -30,6 +30,7 @@ size, and every part is a flat plate joined to other flat plates.
 [windbag](https://github.com/Gernreich/windbag) ·
 [gernreich-writing](https://github.com/Gernreich/gernreich-writing) ·
 [coprime-intervals](https://github.com/Gernreich/coprime-intervals) ·
+[lapping](https://github.com/Gernreich/lapping) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
 [bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck) ·
 [living-hinge](https://github.com/Gernreich/living-hinge)
