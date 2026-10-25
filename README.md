@@ -19,7 +19,8 @@ size, and every part is a flat plate joined to other flat plates.
 [practice-chanters](https://github.com/Gernreich/practice-chanters) ·
 [ghb-chanter](https://github.com/Gernreich/ghb-chanter)
 
-**Generators** — [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes)
+**Generators** — [knotwork-soundholes](https://github.com/Gernreich/knotwork-soundholes) ·
+[living-hinge](https://github.com/Gernreich/living-hinge)
 
 **Tools** — [lasermade-tools](https://github.com/Gernreich/lasermade-tools)
 
@@ -31,6 +32,6 @@ size, and every part is a flat plate joined to other flat plates.
 [gernreich-writing](https://github.com/Gernreich/gernreich-writing) ·
 [coprime-intervals](https://github.com/Gernreich/coprime-intervals) ·
 [lapping](https://github.com/Gernreich/lapping) ·
+[atomic-layer-memory](https://github.com/Gernreich/atomic-layer-memory) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
-[bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck) ·
-[living-hinge](https://github.com/Gernreich/living-hinge)
+[bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck)
