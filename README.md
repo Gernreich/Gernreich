@@ -31,6 +31,7 @@ size, and every part is a flat plate joined to other flat plates.
 [windbag](https://github.com/Gernreich/windbag) ·
 [gernreich-writing](https://github.com/Gernreich/gernreich-writing) ·
 [coprime-intervals](https://github.com/Gernreich/coprime-intervals) ·
+[harmonics](https://github.com/Gernreich/harmonics) ·
 [lapping](https://github.com/Gernreich/lapping) ·
 [atomic-layer-memory](https://github.com/Gernreich/atomic-layer-memory) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
