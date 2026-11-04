@@ -36,3 +36,7 @@ size, and every part is a flat plate joined to other flat plates.
 [atomic-layer-memory](https://github.com/Gernreich/atomic-layer-memory) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
 [bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck)
+
+## Credits
+
+These projects are made by Michael Gernreich with [Claude](https://www.anthropic.com/claude) (Anthropic), working in Claude Code, which co-wrote much of their code and documentation. Commits Claude made carry a `Co-Authored-By: Claude` line.
