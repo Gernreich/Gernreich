@@ -34,6 +34,7 @@ size, and every part is a flat plate joined to other flat plates.
 [harmonics](https://github.com/Gernreich/harmonics) ·
 [lapping](https://github.com/Gernreich/lapping) ·
 [atomic-layer-memory](https://github.com/Gernreich/atomic-layer-memory) ·
+[knot-crossings](https://github.com/Gernreich/knot-crossings) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
 [bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck)
 
