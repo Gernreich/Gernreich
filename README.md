@@ -1,6 +1,6 @@
 ## LaserMadeMusic
 
-Musical instruments cut from 3mm Baltic birch plywood on a laser, and the cut files to
+Musical instruments cut from 3 mm Baltic birch plywood on a laser, and the cut files to
 build them. Millimetre-true at `1 user unit = 1mm`, so a file prints and cuts at real
 size, and every part is a flat plate joined to other flat plates.
 
