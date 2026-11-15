@@ -36,7 +36,8 @@ size, and every part is a flat plate joined to other flat plates.
 [atomic-layer-memory](https://github.com/Gernreich/atomic-layer-memory) ·
 [knot-crossings](https://github.com/Gernreich/knot-crossings) ·
 [Logic-Research](https://github.com/Gernreich/Logic-Research) ·
-[bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck)
+[bang-for-the-buck](https://github.com/Gernreich/bang-for-the-buck) ·
+[twisted-cones](https://github.com/Gernreich/twisted-cones)
 
 ## Credits
 
